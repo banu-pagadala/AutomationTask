@@ -1,4 +1,4 @@
-//Test : to validate the Telus.com search bar
+//Test : to validate the Telus.com search bar functionality and validate the steps
 /// <reference types="cypress" />
 import '../../support/commands'
 import 'cypress-xpath'
